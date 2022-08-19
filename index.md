@@ -1,3 +1,7 @@
 ## My Observablehq laboratory
 
-[iframe link](./iframe.html)
+**Partial page:**
+[iframe link](./iframe1.html)
+
+**Full page:**
+[iframe link](./iframe2.html)
